@@ -1,3 +1,4 @@
+name             "needle-users"
 maintainer       "Needle"
 maintainer_email "ops@needle.com"
 license          "Apache 2.0"
